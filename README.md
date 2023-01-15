@@ -1,4 +1,4 @@
-# Forecasting-Future-Sales
+# Forecasting daily sales: A time series analysis using store and item data
 
 Dataset: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
 
